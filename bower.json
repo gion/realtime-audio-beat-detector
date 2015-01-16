@@ -1,0 +1,7 @@
+{
+  "name": "realtime-audio-beat-detector",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1"
+  }
+}
